@@ -1,3 +1,12 @@
+## v0.5.17 (2017-10-04)
+
+* Updated to play v2.6.5
+* Cross-compile for scala 2.11 and 2.12
+
+## v0.5.16 (2017-09-28)
+
+* Updated to play v2.6.3
+
 ## v0.5.15 (2016-04-02)
 
 * Updated to play v2.5.1
